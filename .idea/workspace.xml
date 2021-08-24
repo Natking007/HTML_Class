@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2a6d11ac-ae9f-4443-8b8a-d91605543e19" name="Changes" comment="Radio Button added">
+    <list default="true" id="2a6d11ac-ae9f-4443-8b8a-d91605543e19" name="Changes" comment="Password input type added">
       <change beforePath="$PROJECT_DIR$/Day2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Day2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +52,7 @@
       <updated>1629742304429</updated>
       <workItem from="1629742305713" duration="10912000" />
       <workItem from="1629816365029" duration="51000" />
-      <workItem from="1629816481115" duration="5972000" />
+      <workItem from="1629816481115" duration="6138000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1629821532256</created>
@@ -89,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629822632646</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Password input type added">
+      <created>1629822996300</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1629822996300</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,6 +117,7 @@
     <MESSAGE value="First Commit" />
     <MESSAGE value="Checkbox practice" />
     <MESSAGE value="Radio Button added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Radio Button added" />
+    <MESSAGE value="Password input type added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Password input type added" />
   </component>
 </project>
